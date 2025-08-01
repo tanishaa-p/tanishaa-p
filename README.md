@@ -1,15 +1,14 @@
 ## 👩🏻‍💻 About me:
 
-<h1 align="center">Hey, welcome to my Github!</h1>
-<h3 align="center">I'm Tanisha Pahwa, a final year Computer Science student at VIT Vellore, who writes code, breaks it, then writes it again — better.</h3>
+<p>Hey, welcome to my Github!<br>
+I'm Tanisha Pahwa, a final year Computer Science student at VIT Vellore, who writes code, breaks it, then writes it again — better! </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaa-p" alt="tanishaa-p" /></a> </p> -->
 
-- 💻 I’m currently working on **an ML Project (stay tuned)**
+- 💻 Currently working on an ML Project (stay tuned)
 
-- 🌱 Currently diving deeper into **Full Stack Development, Cloud Technologies, and System Design.**
-
-- 💬 Ask me about my primary skills: **Frontend, Java, Flutter**
+- 🌱 Diving deeper into Full Stack Development, Cloud Technologies, and System Design.
+- 💬 Ask me about my primary skills: Frontend, Java, Flutter
 
 - 📫 Reach me at: **pahwatanisha@gmail.com**
 
